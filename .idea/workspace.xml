@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a8cae7e-1a9b-48e8-a1ba-098ba6f5bb84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1VRlqujV7VvWqwJnUkBJVPuH7dE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hello-todo/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="remote-debugging" type="Remote">
+      <module name="hello-todo" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8787" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8787" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a8cae7e-1a9b-48e8-a1ba-098ba6f5bb84" name="Default Changelist" comment="" />
+      <created>1577223982754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577223982754</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="201" key="#Auto_Import" timestamp="1578821364060">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="583" y="201" key="#Auto_Import/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578821364060" />
+    <state x="662" y="86" key="#Dockerfile" timestamp="1578840834210">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="662" y="86" key="#Dockerfile/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578840834210" />
+    <state x="583" y="201" width="800" height="727" key="#Intentions" timestamp="1577358268962">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="583" y="201" width="800" height="727" key="#Intentions/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1577358268962" />
+    <state x="583" y="201" width="847" height="675" key="#Project_Structure" timestamp="1577357970291">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="583" y="201" width="847" height="675" key="#Project_Structure/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1577357970291" />
+    <state x="721" y="297" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578820211158">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="721" y="297" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578820211158" />
+    <state x="2140" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578810238795">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state x="2140" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578810238795" />
+    <state x="829" y="431" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577358177221">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="829" y="431" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1577358177221" />
+    <state x="571" y="197" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1577358174330">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="571" y="197" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1577358174330" />
+    <state x="671" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578738631943">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="671" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578738631943" />
+    <state x="794" y="297" key="FileChooserDialogImpl" timestamp="1579114401028">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="794" y="297" key="FileChooserDialogImpl/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1579114401028" />
+    <state width="1827" height="376" key="GridCell.Tab.0.bottom" timestamp="1578840332078">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="376" key="GridCell.Tab.0.bottom/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578840332078" />
+    <state width="1827" height="376" key="GridCell.Tab.0.center" timestamp="1578840332078">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="376" key="GridCell.Tab.0.center/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578840332078" />
+    <state width="1827" height="376" key="GridCell.Tab.0.left" timestamp="1578840332078">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="376" key="GridCell.Tab.0.left/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578840332078" />
+    <state width="1827" height="376" key="GridCell.Tab.0.right" timestamp="1578840332078">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="376" key="GridCell.Tab.0.right/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578840332078" />
+    <state width="1827" height="376" key="GridCell.Tab.1.bottom" timestamp="1578840332078">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="376" key="GridCell.Tab.1.bottom/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578840332078" />
+    <state width="1827" height="376" key="GridCell.Tab.1.center" timestamp="1578840332078">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="376" key="GridCell.Tab.1.center/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578840332078" />
+    <state width="1827" height="376" key="GridCell.Tab.1.left" timestamp="1578840332078">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="376" key="GridCell.Tab.1.left/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578840332078" />
+    <state width="1827" height="376" key="GridCell.Tab.1.right" timestamp="1578840332078">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="376" key="GridCell.Tab.1.right/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578840332078" />
+    <state x="521" y="197" key="Maven.ArtifactSearchDialog" timestamp="1578813240509">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="521" y="197" key="Maven.ArtifactSearchDialog/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1578813240509" />
+    <state x="477" y="174" key="SettingsEditor" timestamp="1577357911664">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="477" y="174" key="SettingsEditor/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1577357911664" />
+    <state x="644" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1579113722891">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="644" y="367" key="com.intellij.ide.util.TipDialog/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1579113722891" />
+    <state x="700" y="244" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577358234675">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="700" y="244" key="com.intellij.testIntegration.createTest.CreateTestDialog/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1577358234675" />
+    <state x="2367" y="93" width="710" height="807" key="find.popup" timestamp="1579553475256">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state x="2367" y="93" width="710" height="807" key="find.popup/47.24.1873.1056/1920.0.1440.900@1920.0.1440.900" timestamp="1579553475256" />
+    <state x="628" y="269" width="710" height="538" key="find.popup/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1579204540362" />
+    <state x="297" y="141" key="new project wizard" timestamp="1579114420623">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="297" y="141" key="new project wizard/47.24.1873.1056/1920.0.1440.900@47.24.1873.1056" timestamp="1579114420623" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/academy/learnprogramming/rest/UserRest.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
